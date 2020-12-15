@@ -1,1 +1,2 @@
 # Python-Code
+The Instacart Grocery stakeholders wish to use a targeted marketing strategy. They asked me for analysis tht will inform what this strategy might look like to ensure targeting the proper customer profiles with products that are appropiate. This includes asking when the busiest days and hours are, when people spend the most money, what price groupings to use, popularity of products, ordering behaviors, brand loyalty, and the effects of various different demographics. 
